@@ -1,0 +1,1960 @@
+[
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 1,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.001693435711786151,
+            "Negative": 0.00008537396934116259,
+            "Neutral": 0.16499049961566925,
+            "Positive": 0.83323073387146
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 2,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0006288085132837296,
+            "Negative": 0.00009212200529873371,
+            "Neutral": 0.8539930582046509,
+            "Positive": 0.145285964012146
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 3,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0005331546999514103,
+            "Negative": 0.00029440931393764913,
+            "Neutral": 0.9947697520256042,
+            "Positive": 0.004402607679367065
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 4,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.01294882595539093,
+            "Negative": 0.010525990277528763,
+            "Neutral": 0.9480780363082886,
+            "Positive": 0.028447020798921585
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 5,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000652924703899771,
+            "Negative": 0.0005788811831735075,
+            "Neutral": 0.9974361062049866,
+            "Positive": 0.0013321232981979847
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 6,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00019097194308415055,
+            "Negative": 0.0002365811524214223,
+            "Neutral": 0.9989506006240845,
+            "Positive": 0.0006218500784598291
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 7,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.003970272373408079,
+            "Negative": 0.014762160368263721,
+            "Neutral": 0.9773378372192383,
+            "Positive": 0.003929724916815758
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 8,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0011867651483044028,
+            "Negative": 0.010735521093010902,
+            "Neutral": 0.9878041744232178,
+            "Positive": 0.00027359460364095867
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 10,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0006834371015429497,
+            "Negative": 0.00010388628288637847,
+            "Neutral": 0.91680908203125,
+            "Positive": 0.08240357041358948
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 11,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00040611240547150373,
+            "Negative": 0.0003403867594897747,
+            "Neutral": 0.9969854950904846,
+            "Positive": 0.0022679686080664396
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 12,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00005069574763183482,
+            "Negative": 0.0000048151518967642915,
+            "Neutral": 0.9907834529876709,
+            "Positive": 0.009161029011011124
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 13,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00018817113596014678,
+            "Negative": 0.000007906299288151786,
+            "Neutral": 0.9554720520973206,
+            "Positive": 0.04433194920420647
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 14,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0003793672367464751,
+            "Negative": 0.00006349416798911989,
+            "Neutral": 0.9593178033828735,
+            "Positive": 0.040239252150058746
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 15,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0003894531982950866,
+            "Negative": 0.00028073470457457006,
+            "Neutral": 0.9722838997840881,
+            "Positive": 0.02704590931534767
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 16,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00022380478912964463,
+            "Negative": 0.00001017778595269192,
+            "Neutral": 0.8353425860404968,
+            "Positive": 0.16442342102527618
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 18,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0003541782789397985,
+            "Negative": 0.0000993450521491468,
+            "Neutral": 0.9877710342407227,
+            "Positive": 0.011775384657084942
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 19,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000251671823207289,
+            "Negative": 0.00021905891480855644,
+            "Neutral": 0.9819005131721497,
+            "Positive": 0.01762864924967289
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 20,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00007296485273400322,
+            "Negative": 0.000055451168009312823,
+            "Neutral": 0.9966363906860352,
+            "Positive": 0.003235147800296545
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 21,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00040093445568345487,
+            "Negative": 0.00018954992992803454,
+            "Neutral": 0.9843837022781372,
+            "Positive": 0.015025747939944267
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 22,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0002466710575390607,
+            "Negative": 0.00009887231135508046,
+            "Neutral": 0.9909170269966125,
+            "Positive": 0.008737500756978989
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 23,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0037756122183054686,
+            "Negative": 0.00031568086706101894,
+            "Neutral": 0.7884308695793152,
+            "Positive": 0.20747779309749603
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 25,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0006974839488975704,
+            "Negative": 0.00037568097468465567,
+            "Neutral": 0.9776076674461365,
+            "Positive": 0.02131916582584381
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 26,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00030542045715264976,
+            "Negative": 0.00011874300253111869,
+            "Neutral": 0.9923262596130371,
+            "Positive": 0.007249565329402685
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 27,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000032613170333206654,
+            "Negative": 6.193100716700428e-7,
+            "Neutral": 0.9857768416404724,
+            "Positive": 0.014189892448484898
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 28,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0032711762469261885,
+            "Negative": 0.004384519997984171,
+            "Neutral": 0.9866949319839478,
+            "Positive": 0.005649288650602102
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 29,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0002707060193642974,
+            "Negative": 0.00006859628774691373,
+            "Neutral": 0.9769231081008911,
+            "Positive": 0.022737573832273483
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 30,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0008626768249087036,
+            "Negative": 0.00008193400572054088,
+            "Neutral": 0.8103122115135193,
+            "Positive": 0.1887432187795639
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 31,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00014555882080458105,
+            "Negative": 0.000005183666416996857,
+            "Neutral": 0.8764983415603638,
+            "Positive": 0.12335088849067688
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 32,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0004359705781098455,
+            "Negative": 0.00029291294049471617,
+            "Neutral": 0.986656665802002,
+            "Positive": 0.012614494189620018
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 33,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000872235803399235,
+            "Negative": 0.0003705818089656532,
+            "Neutral": 0.9419456124305725,
+            "Positive": 0.056811533868312836
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 34,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00220125587657094,
+            "Negative": 0.0008023092523217201,
+            "Neutral": 0.6586374640464783,
+            "Positive": 0.33835896849632263
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 35,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.008335428312420845,
+            "Negative": 0.00451080035418272,
+            "Neutral": 0.7929365038871765,
+            "Positive": 0.19421730935573578
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 36,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.003973541781306267,
+            "Negative": 0.003364658448845148,
+            "Neutral": 0.8921212553977966,
+            "Positive": 0.10054053366184235
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 37,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00020702934125438333,
+            "Negative": 0.000010052878678834531,
+            "Neutral": 0.9560546278953552,
+            "Positive": 0.04372821003198624
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 38,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000453851098427549,
+            "Negative": 0.00015410971536766738,
+            "Neutral": 0.9841449856758118,
+            "Positive": 0.01524706743657589
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 39,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0067976233549416065,
+            "Negative": 0.005182637833058834,
+            "Neutral": 0.700078010559082,
+            "Positive": 0.28794169425964355
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 40,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.06791621446609497,
+            "Negative": 0.13904008269309998,
+            "Neutral": 0.5989342331886292,
+            "Positive": 0.1941094845533371
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 42,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.015023051761090755,
+            "Negative": 0.19941651821136475,
+            "Neutral": 0.7722986936569214,
+            "Positive": 0.013261672109365463
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 43,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0017884236294776201,
+            "Negative": 0.0007537847268395126,
+            "Neutral": 0.9610453248023987,
+            "Positive": 0.03641251474618912
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 44,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0017130348132923245,
+            "Negative": 0.00035983568523079157,
+            "Neutral": 0.8746527433395386,
+            "Positive": 0.12327445298433304
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 45,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0018720978405326605,
+            "Negative": 0.016946537420153618,
+            "Neutral": 0.9762420654296875,
+            "Positive": 0.004939287435263395
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 46,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0018916757544502616,
+            "Negative": 0.003191219875589013,
+            "Neutral": 0.9782274961471558,
+            "Positive": 0.0166896041482687
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 48,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0006779550458304584,
+            "Negative": 0.002476539695635438,
+            "Neutral": 0.996151864528656,
+            "Positive": 0.0006936260615475476
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 49,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0009076236747205257,
+            "Negative": 0.016604412347078323,
+            "Neutral": 0.9822540879249573,
+            "Positive": 0.00023384984524454921
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 50,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0017804622184485197,
+            "Negative": 0.006213813554495573,
+            "Neutral": 0.9858182072639465,
+            "Positive": 0.006187481340020895
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 51,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00044527818681672215,
+            "Negative": 0.0007332488894462585,
+            "Neutral": 0.9966866374015808,
+            "Positive": 0.0021348053123801947
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 52,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0010276605607941747,
+            "Negative": 0.007845590822398663,
+            "Neutral": 0.9856312274932861,
+            "Positive": 0.0054955012165009975
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 53,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00012113197590224445,
+            "Negative": 0.0001521695958217606,
+            "Neutral": 0.9986134767532349,
+            "Positive": 0.001113147009164095
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 54,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.008841242641210556,
+            "Negative": 0.39521390199661255,
+            "Neutral": 0.5946702361106873,
+            "Positive": 0.0012746319407597184
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 55,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0004160820390097797,
+            "Negative": 0.0012492159148678184,
+            "Neutral": 0.9951885938644409,
+            "Positive": 0.003146090777590871
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 56,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.011300005950033665,
+            "Negative": 0.016225304454565048,
+            "Neutral": 0.6107578277587891,
+            "Positive": 0.3617168366909027
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 57,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00030109399813227355,
+            "Negative": 0.0001586236321600154,
+            "Neutral": 0.9876189231872559,
+            "Positive": 0.011921288445591927
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 58,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0031495695002377033,
+            "Negative": 0.01305281650274992,
+            "Neutral": 0.9754024147987366,
+            "Positive": 0.008395249024033546
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 59,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0014853233005851507,
+            "Negative": 0.0037333830259740353,
+            "Neutral": 0.9907724857330322,
+            "Positive": 0.004008866846561432
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 60,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0005127763142809272,
+            "Negative": 0.00018099602311849594,
+            "Neutral": 0.987987220287323,
+            "Positive": 0.011318964883685112
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 61,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00038002250948920846,
+            "Negative": 0.0007767840288579464,
+            "Neutral": 0.9971029162406921,
+            "Positive": 0.0017403195379301906
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 62,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.012990246526896954,
+            "Negative": 0.03542367368936539,
+            "Neutral": 0.880484402179718,
+            "Positive": 0.07110172510147095
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 63,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0004300868895370513,
+            "Negative": 0.000507321790792048,
+            "Neutral": 0.9934438467025757,
+            "Positive": 0.0056188274174928665
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 64,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0003997964959125966,
+            "Negative": 0.0004508421407081187,
+            "Neutral": 0.9936701059341431,
+            "Positive": 0.005479205399751663
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 65,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0027507164049893618,
+            "Negative": 0.23517192900180817,
+            "Neutral": 0.7617193460464478,
+            "Positive": 0.000358054181560874
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 66,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0030753540340811014,
+            "Negative": 0.0030489980708807707,
+            "Neutral": 0.9367737770080566,
+            "Positive": 0.05710182338953018
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 67,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.008291457779705524,
+            "Negative": 0.023320643231272697,
+            "Neutral": 0.9590671062469482,
+            "Positive": 0.009320882149040699
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 68,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0044394973665475845,
+            "Negative": 0.04864645376801491,
+            "Neutral": 0.9417698979377747,
+            "Positive": 0.005144260358065367
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 69,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0002208501100540161,
+            "Negative": 0.00032165696029551327,
+            "Neutral": 0.9985178112983704,
+            "Positive": 0.000939680146984756
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 70,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.017395222559571266,
+            "Negative": 0.04113755375146866,
+            "Neutral": 0.7591604590415955,
+            "Positive": 0.18230673670768738
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 71,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0017058065859600902,
+            "Negative": 0.018970375880599022,
+            "Neutral": 0.9787010550498962,
+            "Positive": 0.0006228436250239611
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 72,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.007165552582591772,
+            "Negative": 0.01814206875860691,
+            "Neutral": 0.9610710740089417,
+            "Positive": 0.013621341437101364
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 73,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00032082878169603646,
+            "Negative": 0.00035376116284169257,
+            "Neutral": 0.997556209564209,
+            "Positive": 0.0017691879766061902
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 74,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00008629917283542454,
+            "Negative": 0.000009832771866058465,
+            "Neutral": 0.9957236051559448,
+            "Positive": 0.00418028375133872
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 75,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00011201183951925486,
+            "Negative": 0.000026433723178342916,
+            "Neutral": 0.9940219521522522,
+            "Positive": 0.005839575547724962
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 77,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0007810919196344912,
+            "Negative": 0.0005987734184600413,
+            "Neutral": 0.997061550617218,
+            "Positive": 0.0015585529617965221
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 78,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0008659580489620566,
+            "Negative": 0.0001013899382087402,
+            "Neutral": 0.9680806994438171,
+            "Positive": 0.03095199353992939
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 79,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.004093745723366737,
+            "Negative": 0.005637356545776129,
+            "Neutral": 0.9541483521461487,
+            "Positive": 0.03612051159143448
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 80,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.005015133880078793,
+            "Negative": 0.0015815396327525377,
+            "Neutral": 0.9831103086471558,
+            "Positive": 0.010292953811585903
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 81,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0006774733774363995,
+            "Negative": 0.00009833963122218847,
+            "Neutral": 0.9221853017807007,
+            "Positive": 0.07703889906406403
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 82,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0020267979707568884,
+            "Negative": 0.007981859147548676,
+            "Neutral": 0.9883649349212646,
+            "Positive": 0.0016264368314296007
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 83,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0011955542722716928,
+            "Negative": 0.0020591081120073795,
+            "Neutral": 0.995029628276825,
+            "Positive": 0.001715735299512744
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 84,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0066276672296226025,
+            "Negative": 0.008856694214046001,
+            "Neutral": 0.9402197003364563,
+            "Positive": 0.04429599642753601
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 85,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0012179190525785089,
+            "Negative": 0.0035075736232101917,
+            "Neutral": 0.9926848411560059,
+            "Positive": 0.0025897175073623657
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 90,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.01601416990160942,
+            "Negative": 0.008755159564316273,
+            "Neutral": 0.9325767159461975,
+            "Positive": 0.04265394061803818
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 91,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.01632416993379593,
+            "Negative": 0.05638609826564789,
+            "Neutral": 0.9150730967521667,
+            "Positive": 0.012216558679938316
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 92,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.053191617131233215,
+            "Negative": 0.08104921132326126,
+            "Neutral": 0.8269931077957153,
+            "Positive": 0.038766048848629
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 95,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.005435879807919264,
+            "Negative": 0.005766835063695908,
+            "Neutral": 0.7454105615615845,
+            "Positive": 0.24338670074939728
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 96,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.018481900915503502,
+            "Negative": 0.005877771880477667,
+            "Neutral": 0.9446093440055847,
+            "Positive": 0.03103095293045044
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 97,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.005169821437448263,
+            "Negative": 0.0010845208307728171,
+            "Neutral": 0.28478536009788513,
+            "Positive": 0.7089602947235107
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 98,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00753323407843709,
+            "Negative": 0.007610770408064127,
+            "Neutral": 0.8724690079689026,
+            "Positive": 0.11238700151443481
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 99,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.003099883906543255,
+            "Negative": 0.04008762165904045,
+            "Neutral": 0.9545765519142151,
+            "Positive": 0.002235984429717064
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 102,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0013647093437612057,
+            "Negative": 0.0003581068303901702,
+            "Neutral": 0.8902605175971985,
+            "Positive": 0.1080167144536972
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 103,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.012485971674323082,
+            "Negative": 0.01868012547492981,
+            "Neutral": 0.9374509453773499,
+            "Positive": 0.031382966786623
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 104,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.006610052660107613,
+            "Negative": 0.0028473844286054373,
+            "Neutral": 0.085381880402565,
+            "Positive": 0.905160665512085
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 107,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.004800759721547365,
+            "Negative": 0.0010438464814797044,
+            "Neutral": 0.861129105091095,
+            "Positive": 0.13302628695964813
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 108,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.004557653795927763,
+            "Negative": 0.0010167434811592102,
+            "Neutral": 0.3184663951396942,
+            "Positive": 0.6759592294692993
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 109,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.003760045627132058,
+            "Negative": 0.0016718527767807245,
+            "Neutral": 0.8535727858543396,
+            "Positive": 0.14099523425102234
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 110,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.010490917600691319,
+            "Negative": 0.020543716847896576,
+            "Neutral": 0.9475436806678772,
+            "Positive": 0.021421687677502632
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 111,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.014606446027755737,
+            "Negative": 0.0033177349250763655,
+            "Neutral": 0.0955415889620781,
+            "Positive": 0.8865342736244202
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 112,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.05431410297751427,
+            "Negative": 0.09252732247114182,
+            "Neutral": 0.8197245597839355,
+            "Positive": 0.033433947712183
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 114,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.005098201800137758,
+            "Negative": 0.0025851584505289793,
+            "Neutral": 0.9408667683601379,
+            "Positive": 0.05144984647631645
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 115,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.004769568797200918,
+            "Negative": 0.004636045079678297,
+            "Neutral": 0.969707190990448,
+            "Positive": 0.02088715322315693
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 116,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.025417467579245567,
+            "Negative": 0.11392414569854736,
+            "Neutral": 0.8372992277145386,
+            "Positive": 0.023359175771474838
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 118,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.011454634368419647,
+            "Negative": 0.0030728185083717108,
+            "Neutral": 0.6579214930534363,
+            "Positive": 0.32755109667778015
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 119,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00027103914180770516,
+            "Negative": 0.00005258819874143228,
+            "Neutral": 0.9627522826194763,
+            "Positive": 0.0369240902364254
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 120,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.011904792860150337,
+            "Negative": 0.0005700730253010988,
+            "Neutral": 0.019842932000756264,
+            "Positive": 0.9676821231842041
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 121,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0038048895075917244,
+            "Negative": 0.0003179081541020423,
+            "Neutral": 0.784449577331543,
+            "Positive": 0.21142759919166565
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 122,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.12736013531684875,
+            "Negative": 0.15082791447639465,
+            "Neutral": 0.5743759274482727,
+            "Positive": 0.1474360078573227
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 125,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.02400725521147251,
+            "Negative": 0.029573379084467888,
+            "Neutral": 0.8188574314117432,
+            "Positive": 0.12756195664405823
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 126,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.01848035492002964,
+            "Negative": 0.013595432974398136,
+            "Neutral": 0.8670320510864258,
+            "Positive": 0.10089218616485596
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 127,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.009874749928712845,
+            "Negative": 0.005689523182809353,
+            "Neutral": 0.8991165161132812,
+            "Positive": 0.08531923592090607
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 128,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.009981123730540276,
+            "Negative": 0.025065023452043533,
+            "Neutral": 0.947235107421875,
+            "Positive": 0.01771867647767067
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 133,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.009859592653810978,
+            "Negative": 0.0037212390452623367,
+            "Neutral": 0.6262460947036743,
+            "Positive": 0.3601731061935425
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 134,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.006745305377990007,
+            "Negative": 0.006027421914041042,
+            "Neutral": 0.9327855110168457,
+            "Positive": 0.05444173887372017
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 135,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.013934818096458912,
+            "Negative": 0.00313103711232543,
+            "Neutral": 0.9317291378974915,
+            "Positive": 0.05120507627725601
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 136,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.04905926436185837,
+            "Negative": 0.009393887594342232,
+            "Neutral": 0.5609608888626099,
+            "Positive": 0.3805859684944153
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 137,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.006565133109688759,
+            "Negative": 0.0021040113642811775,
+            "Neutral": 0.5865538716316223,
+            "Positive": 0.4047769606113434
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 138,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.011393597349524498,
+            "Negative": 0.001347784185782075,
+            "Neutral": 0.05490706115961075,
+            "Positive": 0.9323515295982361
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 140,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.004927949979901314,
+            "Negative": 0.0012217394541949034,
+            "Neutral": 0.5863454341888428,
+            "Positive": 0.4075048863887787
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 141,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0031336608808487654,
+            "Negative": 0.0010938443010672927,
+            "Neutral": 0.8706232905387878,
+            "Positive": 0.1251491904258728
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 142,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.007139358203858137,
+            "Negative": 0.0025096263270825148,
+            "Neutral": 0.9337854385375977,
+            "Positive": 0.056565649807453156
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 143,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.035641711205244064,
+            "Negative": 0.01310606487095356,
+            "Neutral": 0.4617379307746887,
+            "Positive": 0.4895142614841461
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 144,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.005150585900992155,
+            "Negative": 0.013357184827327728,
+            "Neutral": 0.9555358290672302,
+            "Positive": 0.025956405326724052
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 145,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.006177632603794336,
+            "Negative": 0.05204640328884125,
+            "Neutral": 0.9377415180206299,
+            "Positive": 0.004034422338008881
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 146,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.0033239172771573067,
+            "Negative": 0.0007762433961033821,
+            "Neutral": 0.46756696701049805,
+            "Positive": 0.5283328294754028
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 149,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0689815953373909,
+            "Negative": 0.05131042003631592,
+            "Neutral": 0.7334818840026855,
+            "Positive": 0.14622609317302704
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 150,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.003773333039134741,
+            "Negative": 0.0004174158093519509,
+            "Neutral": 0.13395409286022186,
+            "Positive": 0.8618552088737488
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 151,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.09146682918071747,
+            "Negative": 0.027922233566641808,
+            "Neutral": 0.5660333037376404,
+            "Positive": 0.3145776093006134
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 153,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.006746144033968449,
+            "Negative": 0.0016683227149769664,
+            "Neutral": 0.42400923371315,
+            "Positive": 0.5675762891769409
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 154,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.013935658149421215,
+            "Negative": 0.004844036418944597,
+            "Neutral": 0.7871170043945312,
+            "Positive": 0.1941033899784088
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 155,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.003961458336561918,
+            "Negative": 0.0022211649920791388,
+            "Neutral": 0.9493081569671631,
+            "Positive": 0.044509269297122955
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 156,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.011563741602003574,
+            "Negative": 0.007066633552312851,
+            "Neutral": 0.941707193851471,
+            "Positive": 0.03966242074966431
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 158,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000573575496673584,
+            "Negative": 0.0004334106924943626,
+            "Neutral": 0.991266667842865,
+            "Positive": 0.007726315408945084
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 159,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.014058571308851242,
+            "Negative": 0.003665891010314226,
+            "Neutral": 0.6384422183036804,
+            "Positive": 0.3438332676887512
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 160,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.001324877724982798,
+            "Negative": 0.0007813156116753817,
+            "Neutral": 0.9823845028877258,
+            "Positive": 0.015509315766394138
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 161,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0012040954316034913,
+            "Negative": 0.00030736043117940426,
+            "Neutral": 0.9722027778625488,
+            "Positive": 0.026285730302333832
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 163,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.010766908526420593,
+            "Negative": 0.017835840582847595,
+            "Neutral": 0.9320977926254272,
+            "Positive": 0.03929954022169113
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 165,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0028140235226601362,
+            "Negative": 0.00632698368281126,
+            "Neutral": 0.9799181818962097,
+            "Positive": 0.010940839536488056
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 166,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.009175286628305912,
+            "Negative": 0.002805728930979967,
+            "Neutral": 0.5762813091278076,
+            "Positive": 0.4117376506328583
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 167,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.028492067009210587,
+            "Negative": 0.13904275000095367,
+            "Neutral": 0.8199700117111206,
+            "Positive": 0.012495096772909164
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 168,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.019411442801356316,
+            "Negative": 0.01848086528480053,
+            "Neutral": 0.8431196212768555,
+            "Positive": 0.11898809671401978
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 171,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0034805075265467167,
+            "Negative": 0.0005673517007380724,
+            "Neutral": 0.7406846284866333,
+            "Positive": 0.25526756048202515
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 172,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0035203327424824238,
+            "Negative": 0.0009269257425330579,
+            "Neutral": 0.9320035576820374,
+            "Positive": 0.0635492280125618
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 174,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.0010143070248886943,
+            "Negative": 0.00008131932554533705,
+            "Neutral": 0.04859836772084236,
+            "Positive": 0.9503060579299927
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 175,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.0036603633780032396,
+            "Negative": 0.0007002941565588117,
+            "Neutral": 0.4158520996570587,
+            "Positive": 0.5797872543334961
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 176,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.007672163192182779,
+            "Negative": 0.008925526402890682,
+            "Neutral": 0.8507866859436035,
+            "Positive": 0.1326155960559845
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 177,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.006777534727007151,
+            "Negative": 0.002654123120009899,
+            "Neutral": 0.4549897313117981,
+            "Positive": 0.5355786085128784
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 178,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.010829832404851913,
+            "Negative": 0.01038628164678812,
+            "Neutral": 0.6765041351318359,
+            "Positive": 0.30227982997894287
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 9,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.004031005315482616,
+            "Negative": 0.0008938370738178492,
+            "Neutral": 0.1812594085931778,
+            "Positive": 0.8138157725334167
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 17,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000179263690370135,
+            "Negative": 0.00003724196722032502,
+            "Neutral": 0.9663407802581787,
+            "Positive": 0.03344273939728737
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 24,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.00010335808474337682,
+            "Negative": 0.000010170478162763175,
+            "Neutral": 0.9806507229804993,
+            "Positive": 0.019235769286751747
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 41,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.000528970267623663,
+            "Negative": 0.0007823789492249489,
+            "Neutral": 0.9910832643508911,
+            "Positive": 0.007605390623211861
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 47,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0009666506084613502,
+            "Negative": 0.0027822244446724653,
+            "Neutral": 0.99205082654953,
+            "Positive": 0.004200282506644726
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 76,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0008152857189998031,
+            "Negative": 0.0002714223228394985,
+            "Neutral": 0.9829498529434204,
+            "Positive": 0.01596340537071228
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 86,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.08136705309152603,
+            "Negative": 0.03307398408651352,
+            "Neutral": 0.6157636046409607,
+            "Positive": 0.26979535818099976
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 87,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.019012782722711563,
+            "Negative": 0.02145444042980671,
+            "Neutral": 0.9268279075622559,
+            "Positive": 0.032704908400774
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 88,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.010963956825435162,
+            "Negative": 0.01213148608803749,
+            "Neutral": 0.9434465765953064,
+            "Positive": 0.033458027988672256
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 89,
+        "Sentiment": "NEGATIVE",
+        "SentimentScore": {
+            "Mixed": 0.09057062119245529,
+            "Negative": 0.48151370882987976,
+            "Neutral": 0.26919466257095337,
+            "Positive": 0.15872104465961456
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 93,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.040662869811058044,
+            "Negative": 0.11637558043003082,
+            "Neutral": 0.5729967355728149,
+            "Positive": 0.2699647545814514
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 94,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.11630841344594955,
+            "Negative": 0.2569245994091034,
+            "Neutral": 0.40431201457977295,
+            "Positive": 0.2224550098180771
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 100,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.010178609751164913,
+            "Negative": 0.004040480125695467,
+            "Neutral": 0.8592000603675842,
+            "Positive": 0.12658080458641052
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 101,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.005299692507833242,
+            "Negative": 0.0020321591291576624,
+            "Neutral": 0.7816965579986572,
+            "Positive": 0.21097157895565033
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 105,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.06462778151035309,
+            "Negative": 0.025456050410866737,
+            "Neutral": 0.38533690571784973,
+            "Positive": 0.5245792865753174
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 106,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.028293820098042488,
+            "Negative": 0.007788774557411671,
+            "Neutral": 0.7076795101165771,
+            "Positive": 0.25623783469200134
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 113,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.006181458942592144,
+            "Negative": 0.0008670372772030532,
+            "Neutral": 0.15181273221969604,
+            "Positive": 0.8411387801170349
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 117,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.019901037216186523,
+            "Negative": 0.01797572523355484,
+            "Neutral": 0.7574500441551208,
+            "Positive": 0.20467312633991241
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 123,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.008837422356009483,
+            "Negative": 0.005154862068593502,
+            "Neutral": 0.9005694389343262,
+            "Positive": 0.0854383036494255
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 124,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.016376430168747902,
+            "Negative": 0.019223185256123543,
+            "Neutral": 0.9044497609138489,
+            "Positive": 0.0599505715072155
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 129,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.01670129783451557,
+            "Negative": 0.005472618155181408,
+            "Neutral": 0.5269359350204468,
+            "Positive": 0.45089012384414673
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 130,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.0030576656572520733,
+            "Negative": 0.0004781816969625652,
+            "Neutral": 0.556544840335846,
+            "Positive": 0.4399193525314331
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 131,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.017504597082734108,
+            "Negative": 0.03304024040699005,
+            "Neutral": 0.9216052889823914,
+            "Positive": 0.02784983441233635
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 132,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.020779643207788467,
+            "Negative": 0.0009552561677992344,
+            "Neutral": 0.4880625605583191,
+            "Positive": 0.49020257592201233
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 139,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.020522650331258774,
+            "Negative": 0.0015882853185757995,
+            "Neutral": 0.13133853673934937,
+            "Positive": 0.8465505242347717
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 147,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.014521796256303787,
+            "Negative": 0.0013970042346045375,
+            "Neutral": 0.3072147071361542,
+            "Positive": 0.6768665313720703
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 148,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.001949027180671692,
+            "Negative": 0.0016862534685060382,
+            "Neutral": 0.9120044708251953,
+            "Positive": 0.0843602791428566
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 152,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.08643066138029099,
+            "Negative": 0.0494646355509758,
+            "Neutral": 0.4351152181625366,
+            "Positive": 0.4289894700050354
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 157,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.015713954344391823,
+            "Negative": 0.00880274549126625,
+            "Neutral": 0.824044406414032,
+            "Positive": 0.1514388769865036
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 162,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.01623372547328472,
+            "Negative": 0.027809683233499527,
+            "Neutral": 0.927854061126709,
+            "Positive": 0.028102459385991096
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 164,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.0029212147928774357,
+            "Negative": 0.002032951917499304,
+            "Neutral": 0.4847882091999054,
+            "Positive": 0.5102576613426208
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 169,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.010184802114963531,
+            "Negative": 0.0030457773245871067,
+            "Neutral": 0.8468335866928101,
+            "Positive": 0.1399359107017517
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 170,
+        "Sentiment": "NEUTRAL",
+        "SentimentScore": {
+            "Mixed": 0.002706252271309495,
+            "Negative": 0.002006552880629897,
+            "Neutral": 0.9333692193031311,
+            "Positive": 0.061917994171381
+        }
+    },
+    {
+        "File": "AWS_Microsoft.json",
+        "Line": 173,
+        "Sentiment": "POSITIVE",
+        "SentimentScore": {
+            "Mixed": 0.009454024955630302,
+            "Negative": 0.00480988435447216,
+            "Neutral": 0.3919443190097809,
+            "Positive": 0.5937917232513428
+        }
+    }
+]

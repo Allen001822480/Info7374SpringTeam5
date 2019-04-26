@@ -1,0 +1,16 @@
+{% extends "base.html" %} {% block content %}
+<div>
+    <h3>Text</h3>
+    <div>{{filename}}</div>
+    </br>
+    <h3>Result From DC-GAN</h3>
+    <div class="image-section">
+        <img src="{{url_for('static', filename=filename)}}">
+    </div>
+    </br>
+    <h3>Result From TAC-GAN</h3>
+    <div class="image-section">
+        <img src="{{url_for('static', filename=filename)}}">
+    </div>
+</div>
+{% endblock %}
